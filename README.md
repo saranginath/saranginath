@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Sarangi Nath
-
-### 🚀 Full Stack Developer
+ Hi there 👋, I'm Sarangi Nath
+ 
+                                                    🚀 Full Stack Developer
 
 ---
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-I'm Sarangi, a backend-focused full stack developer with **5+ years of experience** building scalable applications using modern JavaScript technologies.
+I'm Sarangi, a backend-focused full stack developer with 6+ years of experience** building scalable applications using modern JavaScript technologies.
 
 * ⚙️ Strong experience in **Node.js, Express, TypeScript, MongoDB**
 * 🧩 Skilled in designing **REST APIs & Microservices architecture**
@@ -16,25 +16,28 @@ I'm Sarangi, a backend-focused full stack developer with **5+ years of experienc
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 💻 Backend
+💻 Backend
 
 * Node.js
 * Express.js
 * TypeScript
 * GraphQL
 
-### 🌐 Frontend
+🌐 Frontend
 
 * React.js
 * Tailwind CSS
 
-### 🗄️ Database
+🗄️ Database
 
 * MongoDB
+* Postgresql
+* SQL
+* DynamoDB
 
-### ☁️ DevOps & Tools
+ ☁️ DevOps & Tools
 
 * Docker
 * AWS
@@ -42,36 +45,36 @@ I'm Sarangi, a backend-focused full stack developer with **5+ years of experienc
 
 ---
 
-## 🎯 Current Focus
+🎯 Current Focus
 
-* 🚀 Building **Microservices-based applications**
-* ☁️ Improving **cloud architecture (AWS + Docker)**
-* 🧠 Practicing **System Design & DSA (LeetCode)**
-* 🤖 Exploring **AI integrations in web apps**
+🚀 Building **Microservices-based applications**
+☁️ Improving **cloud architecture (AWS + Docker)**
+🧠 Practicing **System Design & DSA (LeetCode)**
+🤖 Exploring **AI integrations in web apps**
 
 ---
 
-## 🚀 Projects
+🚀 Projects
 
-### 💍 Jewellery Store API
+💍 Jewellery Store API
 
 * Full backend system with authentication, cart, and orders
 * Built using Node.js, Express, MongoDB, JWT
 * Microservices architecture
 
-### 🍔 Food Ordering App
+🍔 Food Ordering App
 
 * Scalable backend using microservices
 * Includes payment integration and order tracking
 
-### 🎬 Movie Booking App
+🎬 Movie Booking App
 
 * End-to-end backend system
 * Focus on system design and performance
 
 ---
 
-## 📝 Learning & Notes
+📝 Learning & Notes
 
 * 📘 JavaScript Concepts
 * ⚡ Node.js Interview Prep
@@ -79,21 +82,19 @@ I'm Sarangi, a backend-focused full stack developer with **5+ years of experienc
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 ![Sarangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranginath\&show_icons=true\&theme=radical)
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/sarangi-nath/
+* 📧 Email: saranginath22@gmail.com
 
 ---
 
-## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=saranginath)
 
 ---
