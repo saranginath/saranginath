@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋, I'm Sarangi Nath
+🚀 Full Stack Developer
+🧑‍💻 About Me
 
-<!--
-**saranginath/saranginath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sarangi, a backend-focused full stack developer with 6+ years of experience building scalable applications using modern JavaScript technologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Strong experience in Node.js, Express, TypeScript, MongoDB
+🧩 Skilled in designing REST APIs & Microservices architecture
+🌐 Frontend experience with React & Tailwind CSS
+☁️ Experience with AWS, Docker, and cloud deployments
+💡 Passionate about building real-world scalable systems
+🛠️ Tech Stack
+💻 Backend
+Node.js
+Express.js
+TypeScript
+GraphQL
+🌐 Frontend
+React.js
+Tailwind CSS
+🗄️ Database
+MongoDB
+☁️ DevOps & Tools
+Docker
+AWS
+Git & GitHub
